@@ -1,1 +1,2 @@
-# PRODIGY_WD_02
+Stop watch was developed using HTML,CSS,javascript as a part of my Internship at prodigy info tech as web development intern.HTML was used to structure the elements of the application.
+By implementing functions for starting,pausing,reseting the stopwatch,as well as tracking and displaying lap times, users can accurately measures and record time intervals.With these technologies and functionalities , user can use an interactive and user-friendly stopwatch.
